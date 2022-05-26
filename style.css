@@ -1,0 +1,91 @@
+body {
+  background-image: url(./img/beans.jpg);
+  padding: 30px;
+}
+div {
+  background-color: burlywood;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+h1 {
+  padding-top: 20px;
+}
+h1,
+h2 {
+  font-family: Impact, Sans-serif;
+}
+.established {
+  font-style: italic;
+}
+
+p {
+  margin-top: 0;
+  font-family: sans-serif;
+}
+hr {
+  height: 2px;
+  background-color: brown;
+  border-color: brown;
+  width: 80%;
+  margin-top: 20px;
+}
+img {
+  margin-top: -18px;
+}
+.french {
+  display: flex;
+  justify-content: space-between;
+}
+.caramel {
+  display: flex;
+  justify-content: space-between;
+}
+.pumpkin {
+  display: flex;
+  justify-content: space-between;
+}
+.hazelnut {
+  display: flex;
+  justify-content: space-between;
+}
+.mocha {
+  display: flex;
+  justify-content: space-between;
+}
+.donut {
+  display: flex;
+  justify-content: space-between;
+}
+.cherry {
+  display: flex;
+  justify-content: space-between;
+}
+.cheesecake {
+  display: flex;
+  justify-content: space-between;
+}
+.cinnamon {
+  display: flex;
+  justify-content: space-between;
+}
+.horizontal {
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+a {
+  color: black;
+  font-size: 14px;
+}
+a:hover {
+  color: brown;
+}
+a:action {
+  color: brown;
+}
+.address {
+  font-size: 12px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
